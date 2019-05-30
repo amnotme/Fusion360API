@@ -14,5 +14,5 @@
 #####       Downside to this is that the copies will not inherit or create new constraints and therefore you should
 #####       think of another work around if you are solely working with the API instead of the GUI.
 
-![Image of Circular rotation that resemples circular pattern](circularPatter.png)
+![Image of Circular rotation that resemples circular pattern](circularPattern.png)
 
